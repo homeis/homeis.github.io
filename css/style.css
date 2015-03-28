@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 @import url("https://fonts.googleapis.com/css?family=Droid+Serif:400italic,700italic,400,700");
+=======
+@import url("http://fonts.useso.com/css?family=Droid+Serif:400italic,700italic,400,700");
+>>>>>>> 3f36ffc21f7b547bc29d89374a8fd85fdd585aad
 @font-face {
   font-family: 'FontAwesome';
   font-style: normal;
@@ -6,12 +10,21 @@
   src: url("fonts/fontawesome-webfont.eot?#iefix") format('embedded-opentype'), url("fonts/fontawesome-webfont.woff") format('woff'), url("fonts/fontawesome-webfont.ttf") format('truetype'), url("fonts/fontawesome-webfont.svg#FontAwesomeRegular") format('svg');
 }
 html {
+<<<<<<< HEAD
   background: #6c7989;
   background: #6c7989 -webkit-linear-gradient(#6c7989, #434b55) fixed;
   background: #6c7989 -moz-linear-gradient(#6c7989, #434b55) fixed;
   background: #6c7989 -o-linear-gradient(#6c7989, #434b55) fixed;
   background: #6c7989 -ms-linear-gradient(#6c7989, #434b55) fixed;
   background: #6c7989 linear-gradient(#6c7989, #434b55) fixed;
+=======
+  background: #fff;
+  background: #fff -webkit-linear-gradient(#fff, #fff) fixed;
+  background: #fff -moz-linear-gradient(#fff, #fff) fixed;
+  background: #fff -o-linear-gradient(#fff, #fff) fixed;
+  background: #fff -ms-linear-gradient(#fff, #fff) fixed;
+  background: #fff linear-gradient(#fff, #fff) fixed;
+>>>>>>> 3f36ffc21f7b547bc29d89374a8fd85fdd585aad
   background-image: url("images/checker.png");
 }
 body {
